@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+## Welcome to datacodecamp
 
-You can use the [editor on GitHub](https://github.com/datacodecamp/datacodecamp/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We provide training in Data science,Machine Learning,Deep learning, Artificial Intelligence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Without Data you are just another person with opinion, learn to turture the data it will confess to anything_
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Data science training with Python - 60 hours
+_Learn the art of figuring out what to do with data_
+Statistics,Python,Machine learning with python.
 
 ```markdown
-Syntax highlighted code block
+Data Science training curriculum
 
-# Header 1
-## Header 2
-### Header 3
+**Statistics**
+	Data Types 
+	Sampling
+	Measures of Dispersion
+	Graphical Techniques
+	Probability Distribution Function
+	Normal Distribution
+	Standard Normal Distribution
+	Binomial Distribution
+	Z Score
+	Central Limit Theorem
+	Hypothesis testing
+	Confidence Interval
+	2 Sample T test
+	ANOVA
+	2 proportion test
+	Chi square test
+	Projects & Assignments
 
-- Bulleted
-- List
+**Python**
+	Basics of Python
+	Input and  output
+	Data Types
+	Loops and Functions
+	Strings & Lists
+	Dictionary , Set , Tuples
+	Jsons
+	Python OOP
+	Python Libraries: Numpy Pandas Matplotlib
+	Random Data 
+	Databases – Mysql , MangoDB
+	File Handling
+	Exception Handling
+	Projects & Assignments
 
-1. Numbered
-2. List
+**Machine Learning**
+Introduction
+Supervised & Unsupervised Learning 
+Training , Testing & Validation
+Evaluation Metrics – Precision, Recall
+ROC Curve 
+F-Score
+Scikit Learn Introduction
+Exploratory Data Analysis:
+Regression Algorithms :
+	Linear Regression
+	Logistic regression
+Regularization Algorithms:
+	Ridge Regression
+	Lasso Regression
+Tree Based Models:
+	Decision Tree
+	Random Forests
+	Lightgbm
+	XgBoost
+	Catboost
+	Gradient Boosting
+Clustering Algorithms:
+	K Means Clustering
+	Hierarchical Clustering
+	DBScan
+Dimensionally Reduction Techniques:
+	PCA
+	TSNE
+Miscellaneous models:
+	KNN
+	SVM
+	Naïve Bayes
+Time Series Analysis:
+	ARIMA 
+	Forecasting
+Text Analytics:
+Data science pre processing techniques:
+Data science Post modelling techniques:
+Data Science Ensemblling techniques:
+Assignments & Projects:
 
-**Bold** and _Italic_ and `Code` text
+_**Data will talk to you now,if you are willing to listen**_
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### datacodecamp is a subsidiary of HBiZ
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datacodecamp/datacodecamp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_**"Data Science produces insights,Machine learning produces predictions,Artificial Intelligence produces actions"**_
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+contact us datacodercamp@gmail.com . We will help you out 
