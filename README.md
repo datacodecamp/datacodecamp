@@ -1,5 +1,7 @@
 ## Welcome to datacodecamp
 
+![](https://github.com/datacodecamp/datacodecamp/blob/main/datacodecamp_logo.png)
+
 We provide training in Data science,Machine Learning,Deep learning, Artificial Intelligence.
 
 _Without Data you are just another person with opinion, learn to turture the data it will confess to anything_
